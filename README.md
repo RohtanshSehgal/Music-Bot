@@ -1,4 +1,4 @@
-# Music-Bot
+# Music-Bot made by Rohtansh
 A simple telegram bot which uses jio savan api to fetch mp3 downloadable links.
 # IF YOU JUST WANT TO USE BOT IN TELEGRAM
 # How Too Use
